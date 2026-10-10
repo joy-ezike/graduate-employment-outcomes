@@ -23,6 +23,17 @@ Which majors offer stronger employment outcomes, and where should career support
 - 16 major categories
 - Measures covering graduate volume, median earnings, unemployment, employment type, job alignment and gender composition
 
+  ### Data source and attribution
+
+- **Dataset:** [College Majors – Recent Graduates](https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv)
+- **Publisher:** FiveThirtyEight
+- **Underlying source:** American Community Survey, 2010–2012 Public Use Microdata Sample
+- **Documentation:** [College Majors dataset documentation](https://github.com/fivethirtyeight/data/blob/master/college-majors/readme.md)
+- **Date accessed:** October 10, 2026
+- **Analysis file:** `analysis/graduate_outcomes_analysis.xlsx`
+- **Modifications:** Reviewed the source fields and created PivotTables, calculated fields, charts and summarized major categories for portfolio analysis.
+- **License:** FiveThirtyEight data repository, CC BY 4.0.
+
 This project uses public portfolio data and does not contain confidential client or employer information.
 
 ## Tools used
