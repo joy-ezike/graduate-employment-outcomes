@@ -23,7 +23,7 @@ Which majors offer stronger employment outcomes, and where should career support
 - 16 major categories
 - Measures covering graduate volume, median earnings, unemployment, employment type, job alignment and gender composition
 
-The repository should include the original dataset attribution and applicable usage terms in `data/data_dictionary.md`.
+This project uses public portfolio data and does not contain confidential client or employer information.
 
 ## Tools used
 
@@ -62,14 +62,11 @@ The repository should include the original dataset attribution and applicable us
 
 ```text
 graduate-employment-outcomes/
-├── README.md
 ├── analysis/
 │   └── graduate_outcomes_analysis.xlsx
-├── data/
-│   └── data_dictionary.md
-└── visuals/
-    └── graduate-employment-outcomes-poster.png
-```
+├── visuals/
+│   └── graduate-employment-outcomes-poster.png
+└── README.md
 
 ## Limitations
 
