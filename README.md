@@ -67,6 +67,7 @@ graduate-employment-outcomes/
 ├── visuals/
 │   └── graduate-employment-outcomes-poster.png
 └── README.md
+```
 
 ## Limitations
 
